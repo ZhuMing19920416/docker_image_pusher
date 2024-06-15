@@ -1,4 +1,4 @@
---platform=aarch64_cortex-a53 xiaoyaliu/alist:hostmode
---platform=aarch64_cortex-a53 xhofe/alist:latest
---platform=aarch64_cortex-a53 hslr/sun-panel:latest
---platform=aarch64_cortex-a53 alpine:latest
+--platform=aarch64:generic xiaoyaliu/alist:hostmode
+--platform=aarch64:generic xhofe/alist:latest
+--platform=aarch64:generic hslr/sun-panel:latest
+--platform=aarch64:generic alpine:latest
