@@ -1,1 +1,1 @@
---platform openwrt/aarch64 xiaoyaliu/alist:hostmode
+--platform=linux/aarch64_generic xiaoyaliu/alist:hostmode
