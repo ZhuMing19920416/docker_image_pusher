@@ -1,4 +1,4 @@
---platform=linux/aarch64 xiaoyaliu/alist:hostmode
---platform=linux/aarch64 xhofe/alist:latest
---platform=linux/aarch64 hslr/sun-panel:latest
---platform=linux/aarch64 alpine:latest
+--platform=aarch64 xiaoyaliu/alist:hostmode
+--platform=aarch64 xhofe/alist:latest
+--platform=aarch64 hslr/sun-panel:latest
+--platform=aarch64 alpine:latest
