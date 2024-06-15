@@ -1,1 +1,1 @@
---platform=linux/aarch64_cortex-a53 xiaoyaliu/alist:hostmode
+--platform=linux/aarch64 xiaoyaliu/alist:hostmode
