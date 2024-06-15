@@ -1,1 +1,1 @@
---platform=linux/aarch64_generic xiaoyaliu/alist:hostmode
+--platform=linux/aarch64 xiaoyaliu/alist:hostmode
