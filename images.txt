@@ -3,3 +3,4 @@
 --platform=linux/arm64 hslr/sun-panel:latest
 --platform=linux/arm64 ddsderek/xiaoyakeeper:latest
 --platform=linux/arm64 haroldli/xiaoya-tvbox
+--platform=linux/arm64 cloudflare/cloudflared:latest
